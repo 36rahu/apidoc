@@ -261,7 +261,7 @@ sample:
 
 .. code-block:: yaml
 
-    request_body
+    request_body:
         type: object
         description: Root envelope
         properties:
